@@ -54,9 +54,8 @@ sites:
 status-website:
   # Once status.jefcurtis.com points here, swap baseUrl for: cname: status.jefcurtis.com
   baseUrl: /upptime
-  name: Jef's Homelab
-  introTitle: "**Jef's Homelab** — live status of self-hosted services"
-  introMessage: Real-time uptime for the homelab, powered by GitHub Actions. No server required, so this page stays up even when home doesn't.
+  name: homelab
+  introTitle: "homelab - live status"
   navbar:
     - title: Status
       href: /
