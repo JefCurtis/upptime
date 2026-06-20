@@ -52,8 +52,7 @@ sites:
     url: https://sonarr.jefcurtis.com
 
 status-website:
-  # Once status.jefcurtis.com points here, swap baseUrl for: cname: status.jefcurtis.com
-  baseUrl: /upptime
+  cname: status.jefcurtis.com
   name: homelab
   introTitle: "homelab - live status"
   navbar:
