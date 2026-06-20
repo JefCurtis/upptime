@@ -39,7 +39,7 @@ sites:
   - name: Paperless-AI
     url: https://paperless-ai.jefcurtis.com
   - name: Pi-hole
-    url: https://pihole.jefcurtis.com
+    url: https://pihole.jefcurtis.com/admin
   - name: Prowlarr
     url: https://prowlarr.jefcurtis.com
   - name: Radarr
