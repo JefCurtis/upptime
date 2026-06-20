@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.jefcurtis.com.ico",
     "slug": "home",
     "status": "down",
-    "uptime": "34.96%",
-    "uptimeDay": "34.96%",
-    "uptimeWeek": "34.96%",
-    "uptimeMonth": "34.96%",
-    "uptimeYear": "34.96%",
+    "uptime": "28.09%",
+    "uptimeDay": "28.09%",
+    "uptimeWeek": "28.09%",
+    "uptimeMonth": "28.09%",
+    "uptimeYear": "28.09%",
     "time": 4136,
     "timeDay": 4136,
     "timeWeek": 4136,
@@ -331,18 +331,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/paperless-ai.jefcurtis.com.ico",
     "slug": "paperless-ai",
     "status": "down",
-    "uptime": "31.45%",
-    "uptimeDay": "31.45%",
-    "uptimeWeek": "31.45%",
-    "uptimeMonth": "31.45%",
-    "uptimeYear": "31.45%",
+    "uptime": "21.13%",
+    "uptimeDay": "21.13%",
+    "uptimeWeek": "21.13%",
+    "uptimeMonth": "21.13%",
+    "uptimeYear": "21.13%",
     "time": 126,
     "timeDay": 126,
     "timeWeek": 126,
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-06-20": 0
+      "2026-06-20": 1
     }
   },
   {
@@ -351,18 +351,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pihole.jefcurtis.com.ico",
     "slug": "pi-hole",
     "status": "down",
-    "uptime": "45.20%",
-    "uptimeDay": "45.20%",
-    "uptimeWeek": "45.20%",
-    "uptimeMonth": "45.20%",
-    "uptimeYear": "45.20%",
+    "uptime": "28.81%",
+    "uptimeDay": "28.81%",
+    "uptimeWeek": "28.81%",
+    "uptimeMonth": "28.81%",
+    "uptimeYear": "28.81%",
     "time": 117,
     "timeDay": 117,
     "timeWeek": 117,
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-06-20": 0
+      "2026-06-20": 1
     }
   },
   {
