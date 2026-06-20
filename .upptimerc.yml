@@ -20,8 +20,6 @@ sites:
     url: https://freshrss.jefcurtis.com
   - name: Games
     url: https://games.jefcurtis.com
-  - name: Home
-    url: https://home.jefcurtis.com
   - name: Kapowarr
     url: https://kapowarr.jefcurtis.com
   - name: Komf
