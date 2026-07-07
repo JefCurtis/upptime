@@ -58,18 +58,20 @@
     "url": "https://booklore.jefcurtis.com",
     "icon": "https://icons.duckduckgo.com/ip3/booklore.jefcurtis.com.ico",
     "slug": "book-lore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 498,
-    "timeWeek": 413,
-    "timeMonth": 366,
-    "timeYear": 366,
-    "dailyMinutesDown": {}
+    "time": 372,
+    "timeDay": 492,
+    "timeWeek": 423,
+    "timeMonth": 372,
+    "timeYear": 372,
+    "dailyMinutesDown": {
+      "2026-07-07": 0
+    }
   },
   {
     "name": "Komga",
